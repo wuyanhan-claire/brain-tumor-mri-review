@@ -1,6 +1,6 @@
 # Brain Tumor MRI Review
 
-A curated list of 18 studies cited in a review of artificial intelligence methods for brain tumor MRI analysis. The studies are grouped by task: detection and screening, segmentation, and classification. This is a selected reading list, not a comprehensive bibliography or a repository of the papers' source code.
+A curated list of 20 studies cited in a review of artificial intelligence methods for brain tumor MRI analysis. The studies are grouped by task: detection and screening, segmentation, and classification. This is a selected reading list, not a comprehensive bibliography or a repository of the papers' source code.
 
 ## Detection and screening
 
@@ -30,3 +30,5 @@ Image-level screening and lesion localization are distinct tasks. The task descr
 4. Wang, J., et al. (2024). **RanMerFormer: Randomized vision transformer with token merging for brain tumor classification.** *Neurocomputing*, 573, 127216. Token-merging Transformer. [DOI: 10.1016/j.neucom.2023.127216](https://doi.org/10.1016/j.neucom.2023.127216).
 5. Agrawal, T., et al. (2024). **A comparative study of brain tumor classification on unbalanced dataset using deep neural networks.** *Biomedical Signal Processing and Control*, 94, 106256. Classification under class imbalance. [DOI: 10.1016/j.bspc.2024.106256](https://doi.org/10.1016/j.bspc.2024.106256).
 6. Sadr, H., et al. (2025). **Enhancing brain tumor classification in MRI images: A deep learning-based approach for accurate diagnosis.** *Image and Vision Computing*, 159, 105555. CNN-based classification. [DOI: 10.1016/j.imavis.2025.105555](https://doi.org/10.1016/j.imavis.2025.105555).
+7. Hasan, M. J., et al. (2026). **Enhancing brain tumor classification with a novel attention based explainable deep learning framework.** *Biomedical Signal Processing and Control*, 112, 108636. Attention-based explainable classification. [DOI: 10.1016/j.bspc.2025.108636](https://doi.org/10.1016/j.bspc.2025.108636).
+8. Adamu, M. J., et al. (2026). **Explainable Hybrid Deep Learning Framework Integrating MobileNetV2, EfficientNetV2B0, and KNN for MRI-Based Brain Tumor Classification.** *Cellular and Molecular Neurobiology*, 46(1), 40. Hybrid classification and explainability. [DOI: 10.1007/s10571-025-01660-z](https://doi.org/10.1007/s10571-025-01660-z).
