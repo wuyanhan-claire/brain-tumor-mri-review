@@ -2,7 +2,7 @@
 
 A curated list of 20 studies cited in a review of artificial intelligence methods for brain tumor MRI analysis. The studies are grouped by task: detection and screening, segmentation, and classification. This is a selected reading list, not a comprehensive bibliography or a repository of the papers' source code.
 
-## Detection and screening
+## Detection
 
 Image-level screening and lesion localization are distinct tasks. The task descriptions below should not be interpreted as interchangeable measures of detection performance.
 
