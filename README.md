@@ -1,10 +1,8 @@
 # Brain Tumor MRI Review
 
-A curated list of 20 studies cited in a review of artificial intelligence methods for brain tumor MRI analysis. The studies are grouped by task: detection and screening, segmentation, and classification. This is a selected reading list, not a comprehensive bibliography or a repository of the papers' source code.
+Selected studies on brain tumor MRI detection, segmentation, and classification.
 
 ## Detection
-
-Image-level screening and lesion localization are distinct tasks. The task descriptions below should not be interpreted as interchangeable measures of detection performance.
 
 1. Yan, F., et al. (2023). **An Explainable Brain Tumor Detection Framework for MRI Analysis.** *Applied Sciences*, 13(6). Image-level screening and explainability. [DOI: 10.3390/app13063438](https://doi.org/10.3390/app13063438).
 2. Huang, J., et al. (2025). **YOLO-TumorNet: An innovative model for enhancing brain tumor detection performance.** *Alexandria Engineering Journal*, 119, 211-221. Object detection. [DOI: 10.1016/j.aej.2025.01.062](https://doi.org/10.1016/j.aej.2025.01.062).
